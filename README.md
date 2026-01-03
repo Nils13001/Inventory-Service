@@ -1,0 +1,1 @@
+# Inventory Service of E-Commerce MSA
